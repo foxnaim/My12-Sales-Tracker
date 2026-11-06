@@ -1,3 +1,8 @@
+> **foxnaim** · CRM для ведения клиентов и задач с командной работой, поиском и экспортом в CSV
+>
+> Готовая основа под клиентский проект. Стек: JavaScript.
+> Лицензия AGPL-3.0 сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 # 通用客户与事项跟进系统（微信云开发）· 教学版
 
 [![Regression checks](https://github.com/my12yyds/My12-Sales-Tracker/actions/workflows/checks.yml/badge.svg)](https://github.com/my12yyds/My12-Sales-Tracker/actions/workflows/checks.yml)
