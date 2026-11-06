@@ -4,6 +4,6 @@
   "description": "列出本组销售（用于协作销售分配）",
   "main": "index.js",
   "dependencies": {
-    "wx-server-sdk": "~2.6.3"
+    "wx-server-sdk": "~4.0.2"
   }
 }
